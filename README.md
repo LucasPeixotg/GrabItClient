@@ -1,5 +1,5 @@
 <p align='center'>
-<img width=300 src='images/logo.png'>  
+<img width=300 src='logo.png'>  
 </p>
 
 # GrabIt! Client
